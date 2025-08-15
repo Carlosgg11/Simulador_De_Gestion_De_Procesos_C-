@@ -1,0 +1,5 @@
+C:\Users\Carlos Maldonado\Documents\6to semestre\Bases de Datos I\Gestion_De_Procesos\Gestion_De_Procesos\obj\Debug\Gestion_De_Procesos.csproj.AssemblyReference.cache
+C:\Users\Carlos Maldonado\Documents\6to semestre\Bases de Datos I\Gestion_De_Procesos\Gestion_De_Procesos\obj\Debug\Gestion_De_Procesos.Ventana_Principal.resources
+C:\Users\Carlos Maldonado\Documents\6to semestre\Bases de Datos I\Gestion_De_Procesos\Gestion_De_Procesos\obj\Debug\Gestion_De_Procesos.Properties.Resources.resources
+C:\Users\Carlos Maldonado\Documents\6to semestre\Bases de Datos I\Gestion_De_Procesos\Gestion_De_Procesos\obj\Debug\Gestion_De_Procesos.csproj.GenerateResource.cache
+C:\Users\Carlos Maldonado\Documents\6to semestre\Bases de Datos I\Gestion_De_Procesos\Gestion_De_Procesos\obj\Debug\Gestion_De_Procesos.csproj.CoreCompileInputs.cache
